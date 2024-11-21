@@ -66,3 +66,10 @@ Dataset
 German Traffic Sign Recognition Benchmark (GTSRB)
 Training: 80% of the dataset.
 Testing: 20% of the dataset.
+## Input:
+![image](https://github.com/user-attachments/assets/f9c9667e-47a6-475f-a26f-fb6d7c755fb6)
+
+## Output:
+![image](https://github.com/user-attachments/assets/6d99acd7-c921-419d-8fb1-a56ac2b5d4d3)
+
+
